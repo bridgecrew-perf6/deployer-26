@@ -17,4 +17,4 @@ jobs:
         server: ftp.code-honey.com
         username: ${{ secrets.ftp_username }}
         password: ${{ secrets.ftp_password }}
-        server-dir: /home/codeuybe/public_html/deployer/
+        server-dir: /public_html/deployer/
